@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Siddhi 👋
 
-<!--
-**S1i2d3d4h5i/S1i2d3d4h5i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Computer Engineering student at Dr. D. Y. Patil Institute of Technology, Pune (SPPU, graduating 2029). I'm looking for a **frontend development internship** where I can build clear, user-friendly web interfaces.
 
-Here are some ideas to get you started:
+## What I'm working with
+- **Web:** HTML, CSS, Git, GitHub
+- **Languages:** C, C++, Java, Python
+- **Core CS:** Data Structures, OOP, Operating Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Greenfleet**: UI for an AI-powered fleet management concept, built with HTML and CSS
+
+## Currently
+- Building a personal portfolio site
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/siddhi-mandale-12a471385) · mandalesiddhi@gmail.com
